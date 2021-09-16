@@ -1,0 +1,48 @@
+{ 
+	"type": "roughlyenoughitems:entry_stack",
+	"data": { 
+		"id": "minecraft:shulker_box",
+		"Count": 127,
+		"tag": { 
+			"BlockEntityTag": { 
+				"Items": [ 
+					{ 
+						"Slot": 14,
+						"id": "minecraft:wheat_seeds",
+						"Count": 1,
+						"tag": { 
+							"harvest.drop_id.1": "9",
+							"harvest.rewards_amount": "1",
+							"harvest.drop_amount.1": "12",
+							"harvest.tier": "1",
+							"harvest.seed": "true",
+							"HideFlags": 1,
+							"display": { 
+								"Lore": [ 
+									"{\"text\":\"§7Specjalne, magiczne nasiona.\"}",
+									"{\"text\":\"§7Zasadź je i nakarm krwią\"}",
+									"{\"text\":\"§7potworów, aby urosły i dały\"}",
+									"{\"text\":\"§7nagrody opisane niżej!\"}",
+									"{\"text\":\"§8§oPoziom nasiona: §7§l1\"}",
+									"{\"text\":\"§8§l§m-------------------------\"}",
+									"{\"text\":\" §3§oDropy:\"}",
+									"{\"text\":\" §7- §a12x bottle o' enchanting\"}",
+									"{\"text\":\"§8§l§m-------------------------\"}"
+								],
+								"Name": "{\"text\":\"§aNasiona Toksycznej Bazylii\"}"
+							},
+							"Enchantments": [ 
+								{ 
+									"lvl": 69,
+									"id": "minecraft:infinity"
+								}
+							],
+							"harvest.drop_type.1": "surowce"
+						}
+					}
+				]
+			}
+		},
+		"type": "item"
+	}
+}

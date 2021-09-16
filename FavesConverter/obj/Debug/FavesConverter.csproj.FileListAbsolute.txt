@@ -1,0 +1,7 @@
+F:\VisualStudioProjects\FavesConverter\FavesConverter\bin\Debug\FavesConverter.exe.config
+F:\VisualStudioProjects\FavesConverter\FavesConverter\bin\Debug\FavesConverter.exe
+F:\VisualStudioProjects\FavesConverter\FavesConverter\bin\Debug\FavesConverter.pdb
+F:\VisualStudioProjects\FavesConverter\FavesConverter\obj\Debug\FavesConverter.csprojAssemblyReference.cache
+F:\VisualStudioProjects\FavesConverter\FavesConverter\obj\Debug\FavesConverter.csproj.CoreCompileInputs.cache
+F:\VisualStudioProjects\FavesConverter\FavesConverter\obj\Debug\FavesConverter.exe
+F:\VisualStudioProjects\FavesConverter\FavesConverter\obj\Debug\FavesConverter.pdb
